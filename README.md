@@ -1,2 +1,2 @@
 # Amazon
-Amazon Cole
+Amazon Clone using HTML and CSS
